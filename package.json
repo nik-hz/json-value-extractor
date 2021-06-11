@@ -1,8 +1,11 @@
 {
   "name": "json-value-extractor",
   "version": "1.0.0",
-  "description": "",
+  "description": "extract all values for a specific key in a json array",
   "main": "index.js",
+  "bin": {
+    "jextract-array": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

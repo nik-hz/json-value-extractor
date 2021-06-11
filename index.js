@@ -47,7 +47,7 @@ const jsonKeyValuePairExtractor = async (
 
             const nameData = seedData[i]
 
-            console.log(nameData[key])
+            data.push(nameData[key])
         }
 
         //  create and require new JSON file
