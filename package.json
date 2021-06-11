@@ -1,6 +1,6 @@
 {
   "name": "json-value-extractor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "extract all values for a specific key in a json array",
   "main": "index.js",
   "bin": {
