@@ -1,5 +1,8 @@
 # JSON-VALUE-EXTRACTOR
 
+https://github.com/nik-hz/json-value-extractor/edit/main/README.MD
+https://www.npmjs.com/package/json-value-extractor
+
 ```
 npm i -g json-value-extractor
 ```
